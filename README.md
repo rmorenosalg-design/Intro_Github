@@ -11,6 +11,15 @@
 
 _Get started using GitHub in less than an hour._
 
+## 📖 Quick Navigation
+
+**New to GitHub?** Start here:
+- 📘 [Getting Started Guide](GETTING_STARTED.md) - Learn the basics and key concepts
+- 📋 [Quick Reference Cheat Sheet](CHEAT_SHEET.md) - Handy commands and operations
+- 🔧 [Troubleshooting Guide](TROUBLESHOOTING.md) - Solutions to common problems
+
+**Ready to learn?** Follow the course below!
+
 </header>
 
 <!--
@@ -28,6 +37,10 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
 - **How long**: This course takes less than one hour to complete.
+
+### 🆕 New to GitHub?
+
+If this is your first time using GitHub, we recommend starting with our [Getting Started Guide](GETTING_STARTED.md) to familiarize yourself with key concepts before beginning the course.
 
 In this course, you will:
 
@@ -57,6 +70,15 @@ In this course, you will:
    - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+
+## 📚 Additional Learning Resources
+
+Once you complete this course, continue your GitHub journey with these resources:
+
+- **[Getting Started Guide](GETTING_STARTED.md)**: Quick reference for GitHub concepts and terminology
+- **[GitHub Docs](https://docs.github.com)**: Official documentation for all GitHub features
+- **[Git Handbook](https://guides.github.com/introduction/git-handbook/)**: Learn the fundamentals of Git
+- **[GitHub Skills](https://skills.github.com)**: More interactive courses to expand your knowledge
 
 <footer>
 
